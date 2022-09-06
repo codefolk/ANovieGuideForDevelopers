@@ -63,4 +63,4 @@ After completing work you can now head back home and follow your daily routine a
 This is guide made for general developing workplace you schedule can vary in case of a night shift but the main purpose was to give you an idea about your first day at Job.
 Hopefully this will help you get through your first day.
 
-$$Author:Muhammad Zohaib
+Author:Muhammad Zohaib
